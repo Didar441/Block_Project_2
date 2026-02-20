@@ -22,7 +22,7 @@ python -m pip install PyQt6
 
 python -m pip install bcrypt
 
-Once installed, you can run the program by typing "python main.py" inside of the terminal. 
+Once installed, you can run the program by typing "python main.py" and pressing enter inside of the terminal. 
 
 You should be prompted to enter in a fake password and two buttons to either show the unsalted hash of that password or the salted hash of that password. The salted hash will produce a new hash each time with the same password inputted and the unsalted will produce the same hash for the same password.
 
