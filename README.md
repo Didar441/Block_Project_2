@@ -14,10 +14,12 @@ This program was coded in VS Code.
 In the terminal, you need install the following:
 
 pip install PyQt6
+
 pip install bcrypt
 (If these do not work use the two commands below)
 
 python -m pip install PyQt6
+
 python -m pip install bcrypt
 
 Once installed, you can run the program by typing "python main.py" inside of the terminal. 
