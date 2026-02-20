@@ -12,7 +12,7 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("PyQt5 Example")
         self.setGeometry(200, 100, 800, 600)
 
-        label = QLabel("Welcome to the password Hasher! This program demonstrates" \
+        label = QLabel("Welcome to the password Hasher! This program demonstrates" 
         "a salted and unsalted hash for a password. Please enter" 
         " a test password.", self)
         label.setAlignment(Qt.AlignmentFlag.AlignTop)
